@@ -1,3 +1,16 @@
+# Site Architecture:
+- ReadMe
+- Summary
+- Video Presentatin
+- Final Notbook
+- Link to predictions story
+- Descriptive Vizualizations Story
+- Recommendations Story
+- Cluster Story
+
+
+
+
 # Project Title 
 
 Using publicly available data from the US Department of Housing and Urban Development (HUD), we attempt to predict surges in multifamily housing markets before they happen.  
