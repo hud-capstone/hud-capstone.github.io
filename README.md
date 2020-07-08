@@ -11,17 +11,20 @@ To present our findings to a general audience we created a google slide deck ove
 
 #### Project Summary
 We created a pdf, to summarize our project to a general audience. 
+
 [Project Summary](https://hud-capstone.github.io/summary)
 
-
-- [Predictions Dashboard](https://hud-capstone.github.io/predictions_dashboard)
+#### Interactive Visualizations
+The following pages are visualizations created in tableau to assist in understanding the data.  Each dashboard focuses on a piece of the project.
 - [Statistical Visualizations](https://hud-capstone.github.io/statistical_visualizations)
+- [Predictions Dashboard](https://hud-capstone.github.io/predictions_dashboard)
 - [Visualizating Labels](https://hud-capstone.github.io/visualizing_labels)
 - [Visualizing Clusters](https://hud-capstone.github.io/visualizing_clusters)
 
 #### Jupyter Notebook
 Do you like reading technical papers, do you want to increase your domain knowledge on webscraping, clustering, classification, multifamily housing???   Well we have just the document for you.  This notebook dives into our process and methodology in working with the data and making our predictions.  This notebook was written for the average audience to understand, but it is a completist document.
+
 [Click here to read Final Jupyter Notebook (in NBviewer)](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
 
 #### Project Repository
-To get deep, deep, deep into the weeds on our code, methodologies and everything we did, please visit our [project repository] (https://github.com/hud-capstone/).
+To get deep, deep, deep into the weeds on our code, methodologies and everything we did, please visit our [project repository](https://github.com/hud-capstone/).
