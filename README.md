@@ -10,5 +10,5 @@ This website houses all of the collateral and deliverables that we have created 
 - [Statistical Visualizations](https://hud-capstone.github.io/statistical_visualizations)
 - [Visualizating Labels](https://hud-capstone.github.io/visualizing_labels)
 - [Visualizing Clusters](https://hud-capstone.github.io/visualizing_clusters)
-- [Final Jupyter Notebook (in NB viewer](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
+- [Final Jupyter Notebook (in NBviewer)](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
 - [Project Repository](https://github.com/hud-capstone/)
