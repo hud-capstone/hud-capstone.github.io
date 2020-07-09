@@ -16,9 +16,8 @@ We created a pdf, to summarize our project to a general audience.
 
 #### Interactive Visualizations
 The following pages are visualizations created in tableau to assist in understanding the data.  Each dashboard focuses on a piece of the project.
-- [Statistical Visualizations](https://hud-capstone.github.io/statistical_visualizations)
 - [Predictions Dashboard](https://hud-capstone.github.io/predictions_dashboard)
-- [Visualizating Labels](https://hud-capstone.github.io/visualizing_labels)
+- [Visualizating Target Markets](https://hud-capstone.github.io/visualizing_labels)
 - [Visualizing Clusters](https://hud-capstone.github.io/visualizing_clusters)
 
 #### Jupyter Notebook
