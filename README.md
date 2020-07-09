@@ -27,9 +27,9 @@ The following pages are visualizations created in Tableau to assist in understan
 - [Visualizing Clusters](https://hud-capstone.github.io/visualizing_clusters)
 
 #### Jupyter Notebook
-Do you like reading technical papers? Do you want to increase your domain knowledge on webscraping, clustering, classification, and multifamily housing?  
+Do you like reading technical papers? Do you want to increase your domain knowledge on web scraping, clustering, classification, and multifamily housing?  
 
-Well we have just the document for you! This notebook dives into our process and methodology in working with the data analyzed in this project and making our predictions. Although this document contains high level concepts it was written for a general audience with our processes explained in detail.
+Well we have just the document for you! This notebook dives into our process and methodology in working with the data analyzed in this project and making our predictions. Although this document contains high level concepts, it was written for a general audience with our processes explained in detail.
 
 [Click here to read our final report in the form of a Jupyter Notebook](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
 
