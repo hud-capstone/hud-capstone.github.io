@@ -1,30 +1,36 @@
 # Data & Urban Development:  Region of Boom
 
-This website houses all of the collateral and deliverables that we have created for our CodeUp Capstone Project.
+This website houses all deliverables created in the attainment of the goals established for the Data & Urban Development Codeup Capstone Project.
 
 ## Project Elements
 
 #### Final Presentation
-To present our findings to a general audience we created a google slide deck overlayed with our commentary.  
+
+To present our findings to a general audience, we created a Google slide deck overlayed with our commentary.
+
 Click the link below to watch.
 
 [Project Video](https://hud-capstone.github.io/project_video)
 
 #### Project Summary
-We created a pdf to summarize our project to a general audience. 
+
+We created a PDF to summarize our project to a general audience. 
 
 [Project Summary](https://hud-capstone.github.io/summary)
 
 #### Interactive Visualizations
+
 The following pages are visualizations created in Tableau to assist in understanding the data.  Each dashboard focuses on a piece of the project.
+
 - [Predictions Dashboard](https://hud-capstone.github.io/predictions_dashboard)
 - [Visualizing Recommended Markets](https://hud-capstone.github.io/visualizing_recommended_markets)
 - [Visualizing Clusters](https://hud-capstone.github.io/visualizing_clusters)
 
 #### Jupyter Notebook
-Do you like reading technical papers?  Do you want to increase your domain knowledge on webscraping, clustering, classification, multifamily housing?  
+Do you like reading technical papers? Do you want to increase your domain knowledge on webscraping, clustering, classification, and multifamily housing?  
 
-Well we have just the document for you!  This notebook dives into our process and methodology in working with the data and making our predictions.  Although this document contains high level concepts it was written for the average audience with our processes (thought and scientific) explained in detail. 
+Well we have just the document for you! This notebook dives into our process and methodology in working with the data analyzed in this project and making our predictions. Although this document contains high level concepts it was written for a general audience with our processes explained in detail.
+
 [Click here to read Final Jupyter Notebook (in NBviewer)](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
 
 #### Project Repository
