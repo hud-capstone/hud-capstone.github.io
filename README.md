@@ -31,7 +31,7 @@ Do you like reading technical papers? Do you want to increase your domain knowle
 
 Well we have just the document for you! This notebook dives into our process and methodology in working with the data analyzed in this project and making our predictions. Although this document contains high level concepts it was written for a general audience with our processes explained in detail.
 
-[Click here to read Final Jupyter Notebook (in NBviewer)](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
+[Click here to read our final report in the form of a Jupyter Notebook](https://nbviewer.jupyter.org/github/hud-capstone/capstone/blob/master/final_project/final_notebook.ipynb)
 
 #### Project Repository
 To get deep, deep, deep into the weeds on our code, methodologies and everything we did, please visit our [project repository](https://github.com/hud-capstone/).
