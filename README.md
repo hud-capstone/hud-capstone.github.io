@@ -10,7 +10,7 @@ To present our findings to a general audience, we created a Google slide deck ov
 
 Click the link below to watch.
 
-[Project Video](https://youtu.be/JNbY5oX4nuc?t=2431)
+[Project Video](https://youtu.be/fgZ2pBIC-4o)
 <!-- former link https://hud-capstone.github.io/project_video -->
 
 #### Project Summary
