@@ -13,6 +13,8 @@ Click the link below to watch.
 [Project Video](https://youtu.be/JNbY5oX4nuc?t=2431)
 <!-- former link https://hud-capstone.github.io/project_video -->
 
+<!-- <video src="data_urban_dev.mp4" width="320" height="200" controls preload></video> -->
+
 #### Project Summary
 
 We created a PDF to summarize our project to a general audience. 
