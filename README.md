@@ -10,10 +10,7 @@ To present our findings to a general audience, we created a Google slide deck ov
 
 Click the link below to watch.
 
-[Project Video](https://www.youtube.com/watch?v=xEayW2Vhs-A)
-<!-- former link https://hud-capstone.github.io/project_video -->
-
-<!-- <video src="data_urban_dev.mp4" width="320" height="200" controls preload></video> -->
+[Project Video](https://hud-capstone.github.io/video)
 
 #### Project Summary
 
