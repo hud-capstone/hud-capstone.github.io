@@ -1,6 +1,6 @@
 # Data & Urban Development:  Region of Boom
 
-This website houses all deliverables created in the attainment of the goals established for the Data & Urban Development Codeup Capstone Project.
+This website houses all deliverables created in the attainment of the goals established for the Data & Urban Development Codeup Capstone Project...
 
 ## Project Elements
 
